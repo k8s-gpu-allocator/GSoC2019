@@ -32,9 +32,12 @@ Now that gsoc 2019 is almost over, I have completed most of the work on this pro
 
 - [gpu-allocator](./gpu-allocator.md)
 
-# 3.Tests
+# 3. Architect
 
-## 3.1 test job
+![architect](./images/architect.png)
+# 4.Tests
+
+## 4.1 test job
 
 ```yaml
 apiVersion: batch/v1
